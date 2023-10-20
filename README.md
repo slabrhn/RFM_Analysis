@@ -1,7 +1,6 @@
 # RFM_Analysis
-CRM Analytics of Online_Retail_2 dataset
+CRM Analytics of PERSONA dataset
 
-# online-retailstore-ii
 RFM Analysis
 In this study, customer segmentation was performed with RFM (Recency, Frequency, Monetary ) which is one of the Customer Relationship Management methods.
 RFM analysis measures customers in each category, according to Troy Segal’s article in Investopedia, a measurement value of 1-5 is common, with 5 as the highest/best value. The average of these categories results in a ranking of the “best” customers. (https://www.investopedia.com/terms/r/rfm-recency-frequency-monetary-value.asp)
